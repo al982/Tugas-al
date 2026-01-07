@@ -20,4 +20,4 @@ Mudah diuji (testing) karena setiap komponen terpisah.
 Fleksibilitas, mudah mengganti tampilan atau bahkan database tanpa mengubah logika inti. 
 
 Contoh Implementasi
-MVC banyak digunakan dalam framework pengembangan web populer seperti Laravel, CodeIgniter, dan Symfony. 
+MVC banyak digunakan dalam framework pengembangan web populer seperti Laravel, CodeIgniter, dan Symfony
